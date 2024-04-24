@@ -1,7 +1,7 @@
 <em> Allura Challenge | Back-end | Formación Java Orientada a Objetos </em>
 <h1 align="center"> Convertidor de moneda </h1>
 
-Este es el codigo de un programa en Java que permite convertir el monto en diferentes monedas utilizando un API de tipo de cambio.
+Este es el código de un programa en Java que permite convertir el monto en diferentes monedas utilizando un API de tipo de cambio.
 
 Las monedas utilizadas en este conversor son:
 
@@ -12,7 +12,8 @@ Las monedas utilizadas en este conversor son:
 * CRC = Colones Costarricenses
 
 <em> API utilizada </em>
-* Este proyecto utiliza la API de tipo de cambio ExhangeRate-API para obtener los tipos de cambio actualizados. Puedes encontrar más información sobre cómo usar esta API en https://www.exchangerate-api.com/docs/overview
+* Este proyecto utiliza la API de tipo de cambio ExhangeRate-API para obtener los tipos de cambio actualizados.
+  Para más información sobre cómo usar esta API : https://www.exchangerate-api.com/docs/overview
 
 <em> Funcionalidades </em>
 * Conversión entre diferentes monedas.
